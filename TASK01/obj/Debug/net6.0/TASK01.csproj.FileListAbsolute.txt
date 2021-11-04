@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\семинар 04.11.21\TASK01\bin\Debug\net6.0\TASK01.exe
+C:\Users\User\Desktop\семинар 04.11.21\TASK01\bin\Debug\net6.0\TASK01.deps.json
+C:\Users\User\Desktop\семинар 04.11.21\TASK01\bin\Debug\net6.0\TASK01.runtimeconfig.json
+C:\Users\User\Desktop\семинар 04.11.21\TASK01\bin\Debug\net6.0\TASK01.dll
+C:\Users\User\Desktop\семинар 04.11.21\TASK01\bin\Debug\net6.0\ref\TASK01.dll
+C:\Users\User\Desktop\семинар 04.11.21\TASK01\bin\Debug\net6.0\TASK01.pdb
+C:\Users\User\Desktop\семинар 04.11.21\TASK01\obj\Debug\net6.0\TASK01.GlobalUsings.g.cs
+C:\Users\User\Desktop\семинар 04.11.21\TASK01\obj\Debug\net6.0\TASK01.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\семинар 04.11.21\TASK01\obj\Debug\net6.0\TASK01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\семинар 04.11.21\TASK01\obj\Debug\net6.0\TASK01.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\семинар 04.11.21\TASK01\obj\Debug\net6.0\TASK01.AssemblyInfo.cs
+C:\Users\User\Desktop\семинар 04.11.21\TASK01\obj\Debug\net6.0\TASK01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\семинар 04.11.21\TASK01\obj\Debug\net6.0\TASK01.dll
+C:\Users\User\Desktop\семинар 04.11.21\TASK01\obj\Debug\net6.0\ref\TASK01.dll
+C:\Users\User\Desktop\семинар 04.11.21\TASK01\obj\Debug\net6.0\TASK01.pdb
+C:\Users\User\Desktop\семинар 04.11.21\TASK01\obj\Debug\net6.0\TASK01.genruntimeconfig.cache
